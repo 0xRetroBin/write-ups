@@ -1,0 +1,3 @@
+-   List of techniques used to gather information (e.g. Nmap, Dirb, Gobuster, etc.)
+-   List of open ports and services
+-   Any notable information (e.g. vulnerabilities, interesting files, etc.)

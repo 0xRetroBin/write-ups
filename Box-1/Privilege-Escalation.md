@@ -1,0 +1,3 @@
+-   Detail steps to escalate privileges from user to root (or other account)
+-   Explanation of how the privilege escalation works
+-   Screenshots or code snippets of the privilege escalation process

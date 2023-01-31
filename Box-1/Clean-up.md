@@ -1,0 +1,1 @@
+Steps to clean up and restore the box to its original state
